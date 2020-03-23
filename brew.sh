@@ -11,13 +11,13 @@ brew upgrade
 # Save Homebrew’s installed location.
 BREW_PREFIX=$(brew --prefix)
 
-brew cask install nvm
-mkdir ~/.nvm
+# brew cask install nvm
+# mkdir ~/.nvm
 
 brew cask install firefox
-brew cask install firefox-developer-edition
+# brew cask install firefox-developer-edition
 brew cask install google-chrome
-brew cask install google-chrome-canary
+# brew cask install google-chrome-canary
 brew cask install lastpass
 brew cask install vlc
 brew cask install spotify
