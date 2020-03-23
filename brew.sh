@@ -32,7 +32,7 @@ brew cask install maven
 brew tap AdoptOpenJDK/openjdk
 brew cask install adoptopenjdk14
 brew cask install adoptopenjdk14-jre
-brew cask install yarn
+# brew cask install yarn
 
 
 #programming
