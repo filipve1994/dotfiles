@@ -47,4 +47,8 @@ brew cask install cheatsheet
 
 brew cask install texstudio
 
+# fonts
+brew tap homebrew/cask-fonts
+brew cask install font-fira-code
+
 
