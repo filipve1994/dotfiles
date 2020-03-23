@@ -51,4 +51,6 @@ brew cask install texstudio
 brew tap homebrew/cask-fonts
 brew cask install font-fira-code
 
+# Remove outdated versions from the cellar.
+
 brew cleanup
