@@ -28,7 +28,9 @@ brew cask install spectacle
 brew cask install microsoft-teams
 
 # sdk
-brew cask install maven
+
+#without cask
+brew install maven
 brew tap AdoptOpenJDK/openjdk
 brew cask install adoptopenjdk14
 brew cask install adoptopenjdk14-jre
