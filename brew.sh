@@ -16,9 +16,14 @@ brew upgrade
 BREW_PREFIX=$(brew --prefix)
 
 # extra utils
+#https://sourabhbajaj.com/mac-setup/iTerm/tree.html
 brew install tree
 
+#https://sourabhbajaj.com/mac-setup/iTerm/ack.html
+brew install ack
+
 # install terminal
+#https://sourabhbajaj.com/mac-setup/iTerm/
 brew cask install iterm2
 
 #install browsers
