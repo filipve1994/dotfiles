@@ -22,6 +22,9 @@ brew install tree
 #https://sourabhbajaj.com/mac-setup/iTerm/ack.html
 brew install ack
 
+#https://sourabhbajaj.com/mac-setup/Vim/
+brew install vim
+
 # install terminal
 #https://sourabhbajaj.com/mac-setup/iTerm/
 brew cask install iterm2
